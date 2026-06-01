@@ -19,6 +19,7 @@ GoldProber is a fast, lightweight, and multi-threaded subdomain probing tool wri
 First, clone the repository to your local machine:
 
 git clone https://github.com/AndrielSec/GoldProbber.git
+
 cd GoldProbber
 
 
